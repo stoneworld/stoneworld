@@ -1,6 +1,6 @@
 ### Hi My Friend 👋
 
-- 🔭 I’m currently working on Beijing
+- 🔭 I’m currently working in Beijing
 - 🌱 I’m currently learning Web3
 - 👯 I’m participating in the development of https://wtf.academy/
 - 📫 How to reach me: stoneworld1991@gmail.com
